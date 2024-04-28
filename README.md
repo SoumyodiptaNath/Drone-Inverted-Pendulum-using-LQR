@@ -1,5 +1,5 @@
- Drone-Pole using LQR
-#![](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/7a3aa22f-4b79-4645-bb67-0531fedd3266)
+# Drone-Pole using LQR
+![](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/7a3aa22f-4b79-4645-bb67-0531fedd3266)
 
 A Python interface for controlling a Drone-Pole using a Linear Quadratic Controller where the Q and R matrices for penalising various state variables are fine-tuned using a Evolutionary Genetic Algorithm for best results.
 
