@@ -1,4 +1,4 @@
-![drone_pole](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/158216ec-f285-458f-8100-1dc0a7fac614)
+![](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/158216ec-f285-458f-8100-1dc0a7fac614)
 
 <br><br>
 # Drone-Pole using LQR
