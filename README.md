@@ -22,7 +22,7 @@ HAVE FUN!!!
 
 <br>
 <img width="487" alt="test_ss_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c">
-<br>
+<br><br>
 
 In the GUI:
 - ```Choose System Type``` using dropdown menu
@@ -35,7 +35,7 @@ In the GUI:
 
 <br>
 <img width="960" alt="test_ss_2" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/57c0aa11-57ff-4ad4-8898-3576b33bab4c">
-<br>
+<br><br>
 
 - A new window launches for simulation
 - Choose the system name in the menu to simulate
@@ -45,13 +45,13 @@ In the GUI:
   
 <br>
 <img width="959" alt="test_ss_3" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/e8b15db6-382e-4c86-80f0-470737219906">
-<br>
+<br><br>
 
 ## Training
 
 <br>
 <img width="484" alt="train_ss" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/d72d3cf9-b295-4f12-9903-d09e17793e73">
-<br>
+<br><br>
 
 In the GUI:
 - ```Choose System Type``` using dropdown menu
