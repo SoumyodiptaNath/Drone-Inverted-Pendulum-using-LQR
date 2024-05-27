@@ -1,12 +1,11 @@
 # Drone-Pole using LQR
 ![](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/7a3aa22f-4b79-4645-bb67-0531fedd3266)
 
-A Python interface for balancing an inverted pendulum on a drone using a Linear Quadratic Controller where the Q and R matrices for penalizing various state variables are fine-tuned using a Evolutionary Genetic Algorithm for best results.
+A Python interface for balancing an inverted pendulum on a drone using a Linear Quadratic Controller where the Q and R matrices for penalising various state variables are fine-tuned using an Evolutionary Genetic Algorithm for best results.
 
-Alongwith the drone-pole, a normal cart-pole and a drone have been implemented as well. All their weights and configuration files have been supplied for training and testing purposes.
+Along with the drone-pole, a normal cart-pole and a drone have been implemented as well. All their weights and configuration files have been supplied for training and testing purposes.
 
 HAVE FUN!!!
-
 
 ## Usage/Examples
 
@@ -17,8 +16,20 @@ HAVE FUN!!!
 - Run `python run.py` if on Windows
 - Type 1 for training & 2 for testing any system
 
-
 ## Testing
+
+<br>
+<img width="487" alt="test_ss_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c">
+<br><br>
+
+In the GUI:
+- ```Choose System Type``` using dropdown menu
+- ```Choose Source File``` (of the system) using dropdown menu
+- Enter ```Name of the System``` to be displayed during simulation
+- ```Load Data``` to get the details from source file
+- Multiple Systems can be loaded simultaneously
+- Their names appear in the text-box
+- ```Simulate``` to initiate simulation
 
 <br>
 <img width="487" alt="test_ss_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c">
@@ -61,14 +72,13 @@ In the GUI:
 - Choose ```What to Change``` using dropdown menu
 - ```Show``` the contents of the param on the text-box
 - Change the values of the parameters in the text-box itself
-- CAUTION: Dont alter the names of parameters inappropriately
+- CAUTION: Don’t alter the names of parameters inappropriately
 - ```Change``` the parameters accordingly
 - ```Save All``` to save current config
-- ```Train``` to intiate training
+- ```Train``` to initiate training
 - While training the GUI will close
 - All updates will appear on terminal
 - ```Refresh``` to start-over
-
 
 ## System Configurations
 
@@ -93,13 +103,12 @@ SOURCE/DATA/system.bin
     }
 
     sys_config = {
-        system paramters
-        like dimensions, mass, dampning factor,
+        system parameters
+        like dimensions, mass, damping factor,
         acceleration due to gravity and so on;
         depends on the system parameters
     }
 ```
-
 
 ## Contributing
 
@@ -109,7 +118,7 @@ This project is open to contributions, bug reports, and suggestions. If you've f
 ## 🛠 Skills
 Linear Control Systems, Numerical Methods, Physics Simulation, Python, PyGame, CustomTkinter
 
-
 ## Acknowledgements
 
+ 
  - [Control Bootcamp, Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=xTh4PWrXEwkV3x2L) is great for beginners!
