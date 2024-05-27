@@ -1,7 +1,7 @@
 # Drone-Pole using LQR
 ![](https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/7a3aa22f-4b79-4645-bb67-0531fedd3266)
 
-A Python interface for balancing an iverted pendulum on a drone using a Linear Quadratic Controller where the Q and R matrices for penalising various state variables are fine-tuned using a Evolutionary Genetic Algorithm for best results.
+A Python interface for balancing an inverted pendulum on a drone using a Linear Quadratic Controller where the Q and R matrices for penalizing various state variables are fine-tuned using a Evolutionary Genetic Algorithm for best results.
 
 Alongwith the drone-pole, a normal cart-pole and a drone have been implemented as well. All their weights and configuration files have been supplied for training and testing purposes.
 
