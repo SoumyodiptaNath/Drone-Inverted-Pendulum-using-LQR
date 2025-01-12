@@ -31,19 +31,6 @@ In the GUI:
 - ```Load Data``` to get the details from source file
 - Multiple Systems can be loaded simultaneously
 - Their names appear in the text-box
-- ```Simulate``` to initiate simulation
-
-<br>
-<img width="487" alt="test_ss_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c">
-<br><br>
-
-In the GUI:
-- ```Choose System Type``` using dropdown menu
-- ```Choose Source File``` (of the system) using dropdown menu
-- Enter ```Name of the System``` to be displayed during simulation
-- ```Load Data``` to get the details from source file
-- Multiple Systems can be loaded simultaneously
-- Their names appear in the text-box
 - ```Simulate``` to intiate simulation
 
 <br>
