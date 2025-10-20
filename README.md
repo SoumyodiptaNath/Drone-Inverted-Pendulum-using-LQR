@@ -63,7 +63,9 @@ You will be prompted to choose between **Training (1)** or **Testing (2)** mode.
 
 The testing interface allows you to load and visualize the performance of different controllers.
 
+<center>
 <img width="487" height="282" alt="test_ss_1" src="https://github.com/user-attachments/assets/031a98f9-5812-4178-ae1b-0b3ad40b1527" />
+</center>
 
 #### Workflow:
 
@@ -80,9 +82,13 @@ The testing interface allows you to load and visualize the performance of differ
   - Press **Q** to pause and return to the main menu.
   - Press **Z** at the main menu to exit the application.
 
+<center>
 <img width="960" height="358" alt="test_ss_2" src="https://github.com/user-attachments/assets/884dd857-cb9e-472e-9a87-a4e8890dd570" />
+</center>
 
+<center>
 <img width="959" height="328" alt="test_ss_3" src="https://github.com/user-attachments/assets/52aa637a-e6b1-41d0-a6e3-1a5fd8a2740a" />
+</center>
 
 ## 🧬 Training Mode: Evolving a New Controller
 
