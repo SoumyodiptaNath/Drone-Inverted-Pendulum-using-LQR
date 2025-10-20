@@ -63,7 +63,7 @@ You will be prompted to choose between **Training (1)** or **Testing (2)** mode.
 
 The testing interface allows you to load and visualize the performance of different controllers.
 
-\<img width="487" alt="test\_ss\_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c"\>
+<img width="487" alt="test\_ss\_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c"\>
 
 #### Workflow:
 
@@ -73,7 +73,7 @@ The testing interface allows you to load and visualize the performance of differ
 4.  Click **Load Data**. You can load multiple systems to compare.
 5.  Click **Simulate** to launch the visualization window.
 
-\<img width="960" alt="test\_ss\_2" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/57c0aa11-57ff-4ad4-8898-3576b33bab4c"\>
+<img width="960" alt="test\_ss\_2" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/57c0aa11-57ff-4ad4-8898-3576b33bab4c"\>
 
 #### In the Simulation Window:
 
@@ -146,6 +146,3 @@ Contributions are always welcome\! This project is open to bug reports, feature 
 
   - A huge thanks to Steve Brunton's **[Control Bootcamp](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=xTh4PWrXEwkV3x2L)** series on YouTube. It's an incredible resource for anyone new to control theory.
 
-
-```
-```
