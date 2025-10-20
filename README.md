@@ -63,7 +63,7 @@ You will be prompted to choose between **Training (1)** or **Testing (2)** mode.
 
 The testing interface allows you to load and visualize the performance of different controllers.
 
-<img width="487" alt="test\_ss\_1" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/c609706c-6009-4183-a286-bf3dd99c8f4c"\>
+<img width="487" height="282" alt="test_ss_1" src="https://github.com/user-attachments/assets/031a98f9-5812-4178-ae1b-0b3ad40b1527" />
 
 #### Workflow:
 
@@ -73,7 +73,6 @@ The testing interface allows you to load and visualize the performance of differ
 4.  Click **Load Data**. You can load multiple systems to compare.
 5.  Click **Simulate** to launch the visualization window.
 
-<img width="960" alt="test\_ss\_2" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/57c0aa11-57ff-4ad4-8898-3576b33bab4c"\>
 
 #### In the Simulation Window:
 
@@ -81,11 +80,15 @@ The testing interface allows you to load and visualize the performance of differ
   - Press **Q** to pause and return to the main menu.
   - Press **Z** at the main menu to exit the application.
 
+<img width="960" height="358" alt="test_ss_2" src="https://github.com/user-attachments/assets/884dd857-cb9e-472e-9a87-a4e8890dd570" />
+
+<img width="959" height="328" alt="test_ss_3" src="https://github.com/user-attachments/assets/52aa637a-e6b1-41d0-a6e3-1a5fd8a2740a" />
+
 ## 🧬 Training Mode: Evolving a New Controller
 
 The training interface lets you configure and launch a new Genetic Algorithm training session.
 
-\<img width="484" alt="train\_ss" src="https://github.com/SoumyodiptaNath/Drone-Pole-using-LQR/assets/122808862/d72d3cf9-b295-4f12-9903-d09e17793e73"\>
+<img width="484" height="359" alt="train_ss" src="https://github.com/user-attachments/assets/a929b20f-3177-4399-8ad8-939d0e33f40d" />
 
 #### Workflow:
 
